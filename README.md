@@ -2,7 +2,7 @@
 
 Fancy little coprime module
 
-## Usage Examples
+## Usage Example
 
 ```sh
 
