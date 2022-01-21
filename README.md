@@ -20,5 +20,12 @@ console.log(isCoPrime(14, 42)) // false
 
 ```
 
+  
+## Unit Tests
 
+```sh
+
+deno test https://deno.land/x/coprime/src/isCoprime.spec.ts
+
+```
   
