@@ -1,1 +1,1 @@
-export * from "./src/coprime-service.ts"
+export * from "./src/isCoprime.ts"

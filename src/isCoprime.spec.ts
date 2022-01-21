@@ -1,6 +1,6 @@
 
 import { assertEquals } from "https://deno.land/std@0.86.0/testing/asserts.ts"
-import { isCoPrime } from "./coprime-service.ts"
+import { isCoPrime } from "./isCoprime.ts"
 
 
 Deno.test("should return true for coprime numbers", async () => {
